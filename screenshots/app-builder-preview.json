@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "داشبورد زندگی",
+      "hasCanvas": false,
+      "bodyTextLen": 1386,
+      "bodyTextHash": "0a839f3e2016f065645c1c1a274808063101ec75f52b4a0b3d5096a6201f8fd5",
+      "bodyTextPrefix": "زندگی فاز پرواز حقوقی ورود به داشبورد همسو با سند تحول و تعالی ق",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "داشبورد زندگی",
+      "hasCanvas": false,
+      "bodyTextLen": 1386,
+      "bodyTextHash": "0a839f3e2016f065645c1c1a274808063101ec75f52b4a0b3d5096a6201f8fd5",
+      "bodyTextPrefix": "زندگی فاز پرواز حقوقی ورود به داشبورد همسو با سند تحول و تعالی ق",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
